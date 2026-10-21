@@ -4,7 +4,7 @@ A self-directed IT support project exploring Microsoft 365 services, common end-
 
 
 
-###### Project Overview
+##### Project Overview
 
 This project aims to expand my knowledge of Microsoft 365 and develop a better understanding of how IT support teams diagnose and resolve common user issues.
 
@@ -14,7 +14,7 @@ The project is intended to complement my existing IT and cloud knowledge while d
 
 
 
-###### Project Objectives
+##### Project Objectives
 
 I aim to develop my understanding of the following areas:
 
@@ -30,7 +30,7 @@ I will demonstrate my learning through technical notes, research documentation, 
 
 
 
-###### Project Scope
+##### Project Scope
 
 The project will focus on researching and practising support scenarios involving Microsoft 365 services and related technologies, including:
 
@@ -48,7 +48,7 @@ Where hands-on testing is not available, I will use official documentation and c
 
 
 
-###### Tools and Resources
+##### Tools and Resources
 
 * Operating system: Windows 11
 * Applications: Available Microsoft 365 web applications and other relevant free tools
@@ -57,7 +57,7 @@ Where hands-on testing is not available, I will use official documentation and c
 
 
 
-###### Project Documentation
+##### Project Documentation
 
 Project work and findings will be organised into the following folders:
 
@@ -69,7 +69,7 @@ Project work and findings will be organised into the following folders:
 
 
 
-###### Progress Log
+##### Progress Log
 
 I will update the repository as the project progresses, recording completed tasks, key findings, troubleshooting experiences and lessons learned.
 
