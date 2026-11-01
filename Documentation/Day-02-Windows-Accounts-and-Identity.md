@@ -25,7 +25,7 @@ Personal Microsoft account
 Windows sign-in vs Microsoft 365 sign-in
 
 * A Windows sign-in is used to sign into the device's OS, but it may not be the same associated Microsoft account used to access Microsoft apps and services.
-* A Windows sign-in signs into the desktop. Signing into Microsoft 365 activates those apps and enables their usage, as long as the apps are configured to use the appropriate associated licence.
+* A Windows sign-in signs into the desktop. Signing into Microsoft 365 activates those apps and enables their usage, as long as the apps are configured for use with the appropriate associated licence.
 * One email may be used to create the Windows account, and the personal Microsoft 365 login may use different credentials.
 * Authenticating the correct account associated with Microsoft 365 verifies that you are the licence owner of those Microsoft 365 products.
 * For work or school accounts, it verifies you are part of the organisation that owns the licence for Microsoft 365.
