@@ -1,3 +1,9 @@
+##### Windows Accounts and Identity
+
+###### 
+
+
+
 ###### Windows Account Types
 
 Local Windows account
@@ -22,7 +28,7 @@ Windows sign-in vs Microsoft 365 sign-in
 * A Windows sign-in signs into the desktop. Signing into Microsoft 365 activates those apps and enables their usage, as long as the apps are configured to use the appropriate associated licence.
 * One email may be used to create the Windows account, and the personal Microsoft 365 login may use different credentials.
 * Authenticating the correct account associated with Microsoft 365 verifies that you are the licence owner of those Microsoft 365 products.
-* For work or school accounts, it verifies you are part of the organisation that owns the licence for Microsoft 365. 
+* For work or school accounts, it verifies you are part of the organisation that owns the licence for Microsoft 365.
 * However, successfully authenticating a user doesn't prove they have a valid Microsoft 365 licence.
 
 
@@ -46,7 +52,7 @@ Microsoft Entra joined devices
 
 Microsoft Entra registered devices
 
-* BYOD and mobile devices to be registered to an organisation's directory without an organisational account to sign in with. 
+* BYOD and mobile devices to be registered to an organisation's directory without an organisational account to sign in with.
 * Sign in using a local account and use Entra accounts to access organisational resources, though access is determined by access policies and device compliance.
 * Within the Windows settings, a work or school account can be associated with the device before joining the device to the Entra ID directory.
 * The device has an identity in Entra ID, but its Windows sign-in remains independent of the organisational identity.
@@ -77,7 +83,7 @@ Microsoft Entra registered devices
 
 
 * Conditional Access can also allow access without additional prompts, depending on the policies in place.
-* Conditional Access policies can block sign-ins, but this access block may be different from an account lockout. 
+* Conditional Access policies can block sign-ins, but this access block may be different from an account lockout.
 
 
 
