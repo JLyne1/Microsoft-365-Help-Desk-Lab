@@ -32,21 +32,6 @@ Teams:
 
 
 
-OneDrive:
-
-* Cloud storage service that enables file backing up, accessing, editing, sharing, and syncing across devices.
-* For businesses, OneDrive for Work or School provides individuals with work-file storage linked to a work or school account. This is usually managed by the business's IT department, depending on the configuration and policies.
-* For supported file types and applications, users can share files stored in OneDrive for collaborative access and real-time co-editing.
-
-
-
-SharePoint:
-
-* Collaboration and content management platform used for customisable intranet hosting and sharing resources - sites, document libraries, and lists.
-* Files and organisational information can be stored centrally for easier document management and sharing.
-
-
-
 Word:
 
 * Word processing app for creating, sharing, and accessing documents from scratch or using templates.
@@ -60,6 +45,21 @@ Excel:
 * Spreadsheet app for creating tables, managing data, and using functions for calculations.
 * Data can be analysed to make summaries and find trends.
 * Share function within Excel enables real-time co-editing and commenting between users with appropriate access to supported files stored within OneDrive or SharePoint.
+
+
+
+OneDrive:
+
+* Cloud storage service that enables file backing up, accessing, editing, sharing, and syncing across devices.
+* For businesses, OneDrive for Work or School provides individuals with work-file storage linked to a work or school account. This is usually managed by the business's IT department, depending on the configuration and policies.
+* For supported file types and applications, users can share files stored in OneDrive for collaborative access and real-time co-editing.
+
+
+
+SharePoint:
+
+* Collaboration and content management platform used for customisable intranet hosting and sharing resources - sites, document libraries, and lists.
+* Files and organisational information can be stored centrally for easier document management and sharing.
 
 
 
@@ -81,9 +81,10 @@ File access and synchronisation
 Sharing and information protection
 
 * When sharing a file, a user can create a shareable link with permissions determined by the link type and the organisation's sharing policies.
-1. Anyone link - Access is granted to the file for anyone who has been given the link. That user does not need to sign in.
-2. People in your organisation link - Access is granted to the file for anyone who has been given the link, and that user must be an authenticated member in your organisation's directory.
-3. Specific people link - Access is granted to specific users inside and outside your organisation, but their identity must be authenticated.
+
+  * Anyone link - Access is granted to the file for anyone who has been given the link. That user does not need to sign in.
+  * People in your organisation link - Access is granted to the file for anyone who has been given the link, and that user must be an authenticated member in your organisation's directory.
+  * Specific people link - Access is granted to specific users inside and outside your organisation, but their identity must be authenticated.
 * The file's owner or users with appropriate permissions to manage sharing can stop or change sharing permissions.
 * Retention labels manage how long content is retained for, following retention policies.
 * Sensitivity labels classify and protect information, such as utilising encryption and access restrictions.
@@ -109,8 +110,8 @@ Work or school accounts
 * Created and managed by an administrator or automated processes as part of the organisation for controlled access to Microsoft services and products for business use.
 * Microsoft Entra ID provides an IAM solution with secure access to apps and resources for identities by providing capabilities for MFA, SSO, and other authentication methods for organisational use.
 * Entra ID can grant app and resource access to directory objects that represent user identities. Access is granted through authentication, permissions and policies, supporting a Zero Trust approach.
-* It is the job of an IT administrator or department to control access to resources, ensure security is upheld, and manage licenses and monitor their status. Responsibilities may be split between IT, security and other administrators.
-* OneDrive for work or school provides an individual with organisational cloud storage, managed under the organisation's Microsoft 365 configuration and policies.
+* It is the job of an IT administrator or department to control access to resources, ensure security is upheld, and manage licences and monitor their status. Responsibilities may be split between IT, security and other administrators.
+* OneDrive for work or school provides an individual with organisational cloud storage, managed under the organisation's Microsoft 365 configurations and policies.
 * IT administrators may limit access to particular services, sites, or sharing scenarios. A personal (guest) user's access to an organisation's resources would be limited, with access to one resource not guaranteeing access to all of them.
 
 
