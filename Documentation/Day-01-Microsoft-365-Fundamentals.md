@@ -162,27 +162,16 @@ Role
 
 ###### References
 
-https://www.microsoft.com/en-gb/microsoft-365
-
-https://support.microsoft.com/en-us/word
-
-https://support.microsoft.com/en-us/excel
-
-https://support.microsoft.com/en-us/outlook
-
-https://learn.microsoft.com/en-us/exchange/exchange-online
-
-https://www.microsoft.com/en-gb/microsoft-teams
-
-https://support.microsoft.com/en-us/onedrive
-
-https://support.microsoft.com/en-gb/sharepoint
-
-https://learn.microsoft.com/en-us/sharepoint/shareable-links-anyone-specific-people-organization
-
-https://support.microsoft.com/en-us/accounts-billing/manage/what-s-the-difference-between-a-microsoft-account-and-a-work-or-school-account
-
-https://learn.microsoft.com/en-us/microsoft-365/education/guide/1-reference/introduction-microsoft-entra-id
-
-https://learn.microsoft.com/en-us/entra/identity/users/directory-overview-user-model
+* https://www.microsoft.com/en-gb/microsoft-365
+* https://support.microsoft.com/en-us/word
+* https://support.microsoft.com/en-us/excel
+* https://support.microsoft.com/en-us/outlook
+* https://learn.microsoft.com/en-us/exchange/exchange-online
+* https://www.microsoft.com/en-gb/microsoft-teams
+* https://support.microsoft.com/en-us/onedrive
+* https://support.microsoft.com/en-gb/sharepoint
+* https://learn.microsoft.com/en-us/sharepoint/shareable-links-anyone-specific-people-organization
+* https://support.microsoft.com/en-us/accounts-billing/manage/what-s-the-difference-between-a-microsoft-account-and-a-work-or-school-account
+* https://learn.microsoft.com/en-us/microsoft-365/education/guide/1-reference/introduction-microsoft-entra-id
+* https://learn.microsoft.com/en-us/entra/identity/users/directory-overview-user-model
 
